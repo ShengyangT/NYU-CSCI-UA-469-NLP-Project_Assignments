@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<POSTask>
+<TEXT><![CDATA[9:10 P.M. EST
+
+Mr. Speaker, Mr. Vice President, Members of Congress, my fellow Americans:
+
+Tonight marks the eighth year that I’ve come here to report on the State of the Union. And for this final one, I’m going to try to make it a little shorter. (Applause.) I know some of you are antsy to get back to Iowa. (Laughter.) I've been there. I'll be shaking hands afterwards if you want some tips. (Laughter.)
+
+And I understand that because it’s an election season, expectations for what we will achieve this year are low. But, Mr. Speaker, I appreciate the constructive approach that you and the other leaders took at the end of last year to pass a budget and make tax cuts permanent for working families. So I hope we can work together this year on some bipartisan priorities like criminal justice reform -- (applause) -- and helping people who are battling prescription drug abuse and heroin abuse. (Applause.) So, who knows, we might surprise the cynics again.
+
+But tonight, I want to go easy on the traditional list of proposals for the year ahead. Don’t worry, I’ve got plenty, from helping students learn to write computer code to personalizing medical treatments for patients. And I will keep pushing for progress on the work that I believe still needs to be done. Fixing a broken immigration system. (Applause.) Protecting our kids from gun violence. (Applause.) Equal pay for equal work. (Applause.) Paid leave. (Applause.) Raising the minimum wage. (Applause.) All these things still matter to hardworking families. They’re still the right thing to do. And I won't let up until they get done.
+
+But for my final address to this chamber, I don’t want to just talk about next year. I want to focus on the next five years, the next 10 years, and beyond. I want to focus on our future.
+
+We live in a time of extraordinary change -- change that’s reshaping the way we live, the way we work, our planet, our place in the world. It’s change that promises amazing medical breakthroughs, but also economic disruptions that strain working families. It promises education for girls in the most remote villages, but also connects terrorists plotting an ocean away. It’s change that can broaden opportunity, or widen inequality. And whether we like it or not, the pace of this change will only accelerate.
+
+America has been through big changes before -- wars and depression, the influx of new immigrants, workers fighting for a fair deal, movements to expand civil rights. Each time, there have been those who told us to fear the future; who claimed we could slam the brakes on change; who promised to restore past glory if we just got some group or idea that was threatening America under control. And each time, we overcame those fears. We did not, in the words of Lincoln, adhere to the “dogmas of the quiet past.” Instead we thought anew, and acted anew. We made change work for us, always extending America’s promise outward, to the next frontier, to more people. And because we did -- because we saw opportunity where others saw only peril -- we emerged stronger and better than before.
+
+What was true then can be true now. Our unique strengths as a nation -- our optimism and work ethic, our spirit of discovery, our diversity, our commitment to rule of law -- these things give us everything we need to ensure prosperity and security for generations to come. 
+]]></TEXT>
+<TAGS>
+<ADJECTIVE id="A3" spans="109~115" text="eighth" morphology="normal" position="attributive" />
+<ADJECTIVE id="A4" spans="191~196" text="final" morphology="normal" position="attributive" />
+<ADJECTIVE id="A5" spans="239~246" text="shorter" morphology="comparative" position="predicative" />
+<ADJECTIVE id="A6" spans="283~288" text="antsy" morphology="normal" position="predicative" />
+<ADJECTIVE id="A8" spans="515~518" text="low" morphology="normal" position="predicative" />
+<ADJECTIVE id="A9" spans="555~567" text="constructive" morphology="normal" position="attributive" />
+<ADJECTIVE id="A10" spans="627~631" text="last" morphology="normal" position="attributive" />
+<ADJECTIVE id="A11" spans="672~681" text="permanent" morphology="normal" position="predicative" />
+<ADJECTIVE id="A12" spans="686~693" text="working" morphology="normal" position="attributive" />
+<ADJECTIVE id="A13" spans="753~763" text="bipartisan" morphology="normal" position="attributive" />
+<ADJECTIVE id="A17" spans="1001~1012" text="traditional" morphology="normal" position="attributive" />
+<ADJECTIVE id="A19" spans="1149~1156" text="medical" morphology="normal" position="attributive" />
+<ADJECTIVE id="A20" spans="1279~1285" text="broken" morphology="normal" position="attributive" />
+<ADJECTIVE id="A23" spans="1369~1374" text="Equal" morphology="normal" position="attributive" />
+<ADJECTIVE id="A24" spans="1383~1388" text="equal" morphology="normal" position="attributive" />
+<ADJECTIVE id="A25" spans="1443~1450" text="minimum" morphology="normal" position="attributive" />
+<ADJECTIVE id="A26" spans="1502~1513" text="hardworking" position="attributive" morphology="normal" />
+<ADJECTIVE id="A27" spans="1542~1547" text="right" morphology="normal" position="attributive" />
+<ADJECTIVE id="A28" spans="1613~1618" text="final" morphology="normal" position="attributive" />
+<ADJECTIVE id="A29" spans="1676~1680" text="next" morphology="normal" position="attributive" />
+<ADJECTIVE id="A30" spans="1710~1714" text="next" morphology="normal" position="attributive" />
+<ADJECTIVE id="A31" spans="1731~1735" text="next" position="attributive" morphology="normal" />
+<ADJECTIVE id="A32" spans="1811~1824" text="extraordinary" morphology="normal" position="attributive" />
+<ADJECTIVE id="A33" spans="1955~1962" text="amazing" morphology="normal" position="attributive" />
+<ADJECTIVE id="A34" spans="1963~1970" text="medical" morphology="normal" position="attributive" />
+<ADJECTIVE id="A35" spans="1995~2003" text="economic" morphology="normal" position="attributive" />
+<ADJECTIVE id="A36" spans="2028~2035" text="working" morphology="normal" position="attributive" />
+<ADJECTIVE id="A39" spans="2090~2096" text="remote" morphology="normal" position="attributive" />
+<ADJECTIVE id="A40" spans="2326~2329" text="big" morphology="normal" position="attributive" />
+<ADJECTIVE id="A41" spans="2383~2386" text="new" morphology="normal" position="attributive" />
+<ADJECTIVE id="A42" spans="2422~2426" text="fair" morphology="normal" position="attributive" />
+<ADJECTIVE id="A43" spans="2453~2458" text="civil" morphology="normal" position="attributive" />
+<ADJECTIVE id="A44" spans="2604~2608" text="past" morphology="normal" position="attributive" />
+<ADJECTIVE id="A45" spans="2799~2804" text="quiet" morphology="normal" position="attributive" />
+<ADJECTIVE id="A46" spans="2932~2936" text="next" morphology="normal" position="attributive" />
+<ADJECTIVE id="A47" spans="3054~3062" text="stronger" morphology="comparative" position="predicative" />
+<ADJECTIVE id="A48" spans="3067~3073" text="better" morphology="comparative" position="predicative" />
+<ADJECTIVE id="A49" spans="3128~3134" text="unique" morphology="normal" position="attributive" />
+<ADJECTIVE id="A51" spans="780~788" text="criminal" morphology="normal" position="attributive" />
+<ADJECTIVE id="A0" spans="1407~1411" text="Paid" position="attributive" morphology="normal" />
+<ADJECTIVE id="A14" spans="594~599" text="other" position="attributive" morphology="normal" />
+<ADJECTIVE id="A15" spans="3097~3101" text="true" position="predicative" morphology="normal" />
+<ADJECTIVE id="A22" spans="3114~3118" text="true" position="predicative" morphology="normal" />
+</TAGS>
+</POSTask>
